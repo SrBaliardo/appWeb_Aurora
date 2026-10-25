@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Um bosque de brincadeiras para aprender com Aurora.",
   "engines": {
-    "node": ">=22.13.0"
+    "node": "^22.13.0"
   },
   "scripts": {
     "dev": "node node_modules/vite/bin/vite.js --host 127.0.0.1 --configLoader runner",

@@ -2,9 +2,7 @@
 
 ## Ponto de retorno
 
-Backup anterior à alteração: `backups/aurora-antes-visual-livros-20261022-230503.zip`.
-Manifesto e SHA-256: arquivo JSON de mesmo nome. Instruções em `backups/COMO-RESTAURAR.md`.
-O ZIP contém 72 arquivos e foi verificado por CRC. Inclui os seis PDFs e o build anterior; exclui node_modules, caches, temporários, Git e backups.
+O checkpoint anterior à alteração visual foi removido, com seu manifesto e instruções, por solicitação do proprietário. As referências de validação abaixo registram as verificações realizadas enquanto ele estava disponível.
 
 ## Imagem inicial
 

@@ -15,7 +15,7 @@ SHA-256 dos downloads gratuitos em português, congelados nos testes (traduçõe
 
 ## Verificar e construir
 
-Node.js 22.13 ou superior, compatível com a versão selecionada no Vercel:
+Node.js 22, a partir de 22.13. O `package.json` limita a versão principal a 22 para manter compatibilidade com o ambiente validado e evitar atualizações automáticas para outra versão principal no Vercel:
 
 ```sh
 npm ci
@@ -57,7 +57,7 @@ O script preserva integralmente o fluxo descomprimido e os metadados PNG; só es
 - 21 renderizações estáticas de coleção, galeria, editor e banners nos três idiomas aprovadas. São verificações estáticas, não interação real no navegador.
 - Git conferido em repositório temporário: somente os dois PDFs gratuitos são candidatos a versionamento; materiais, backups, temporários, dependências e variáveis locais são ignorados. Não havia repositório Git criado na raiz; `git diff --check` da árvore existente não se aplica.
 - As conferências visuais foram posteriormente consideradas concluídas pelo usuário.
-- Exclusão definitiva de temporários/caches rejeitada pela revisão automática de permissões do ambiente. Alternativa reversível executada: arquivos de desenvolvimento antigos, caches e pastas vazias arquivados em `backups/arquivo-desenvolvimento-20261024-194941/`, ignorado pelo Git e pelo Vercel. O checkpoint anterior permanece intacto.
+- Exclusão definitiva de temporários/caches rejeitada pela revisão automática de permissões do ambiente. Alternativa reversível executada: arquivos de desenvolvimento antigos, caches e pastas vazias arquivados em `backups/arquivo-desenvolvimento-20261024-194941/`, ignorado pelo Git e pelo Vercel. O checkpoint visual foi posteriormente removido por solicitação do proprietário.
 
 ## Ampliação com edições traduzidas
 
