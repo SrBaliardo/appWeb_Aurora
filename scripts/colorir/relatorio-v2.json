@@ -1,0 +1,386 @@
+﻿[
+    {
+        "pagina":  1,
+        "arteSHA256":  "F34D7B8C95C2D08876427F0C0C32D572C6D0FEE89DD2D04D7CB7AD0FC6D6C0C8",
+        "legadoSHA256":  "C168ABC4A98D69689FF9BB98A0311710EE5E7D1BB53C79B167A64BC10DECEF7D",
+        "dados":  {
+                      "regioes":  180,
+                      "residuosAgrupados":  29,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  10080,
+                      "maiorRegiao":  216280
+                  }
+    },
+    {
+        "pagina":  2,
+        "arteSHA256":  "2E6AF934511F6BF31A0E550146440B12F070DDD8FFCFFB568A16AB416593E107",
+        "legadoSHA256":  "CFCBBBC720228F6762F5B1415A1CC6FCFD992FB35C622D605BF97AE171213327",
+        "dados":  {
+                      "regioes":  151,
+                      "residuosAgrupados":  20,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  9629,
+                      "maiorRegiao":  273758
+                  }
+    },
+    {
+        "pagina":  3,
+        "arteSHA256":  "28D74D668B9161BA9C897A59BF81385AEFD0FD5D8CA45D2F2CFACEA67E241A0A",
+        "legadoSHA256":  "61EC69B00B7FE807E457E21119BD314FAEEA20670369A1F9B04BB9A3C69AA80C",
+        "dados":  {
+                      "regioes":  222,
+                      "residuosAgrupados":  22,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  13119,
+                      "maiorRegiao":  269099
+                  }
+    },
+    {
+        "pagina":  4,
+        "arteSHA256":  "271439E1E1E90723FEDA31B02160D252483492D7E2702F44A9C478D2D7713774",
+        "legadoSHA256":  "2F3701F05A53BEB95392571F018CBE00494F047938BAD6EC056AB5A2CFD9D2D8",
+        "dados":  {
+                      "regioes":  278,
+                      "residuosAgrupados":  34,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  15839,
+                      "maiorRegiao":  344712
+                  }
+    },
+    {
+        "pagina":  5,
+        "arteSHA256":  "C4FEE4EEA86101B9F5DF1F3679A0C4A3D7E5273723F44817506089B6BD44F27B",
+        "legadoSHA256":  "1D115C7C1BEABC17370245B06FD0B754E287DF25177FE1448BF75DFEFC47B101",
+        "dados":  {
+                      "regioes":  195,
+                      "residuosAgrupados":  23,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  12962,
+                      "maiorRegiao":  260185
+                  }
+    },
+    {
+        "pagina":  6,
+        "arteSHA256":  "327EC30CFFFA933FE54CDF0B80A81C7C9D174B1C07F8EFDC2B1686BFE7F94174",
+        "legadoSHA256":  "2B45AD5EC31B722CCA58932B61ADDD54E43C8B330E66A08006F81382AB747C84",
+        "dados":  {
+                      "regioes":  181,
+                      "residuosAgrupados":  24,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  12310,
+                      "maiorRegiao":  318940
+                  }
+    },
+    {
+        "pagina":  7,
+        "arteSHA256":  "27FC007E2B9E505979BD7E02183D611031568ED56E2B628A875A91B64E5D8025",
+        "legadoSHA256":  "6EDF636F5017FB484D15A5B506D0A250A0D009316B696A478BC160263137E7DF",
+        "dados":  {
+                      "regioes":  235,
+                      "residuosAgrupados":  16,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  11106,
+                      "maiorRegiao":  305411
+                  }
+    },
+    {
+        "pagina":  8,
+        "arteSHA256":  "84C5D123D93E08EFE77C2B98AC2E943CC2874CF444F120E00AE718F1851BE5B8",
+        "legadoSHA256":  "9BD71CDAC030D114BE1E5431BAB27F354300B28BE45A6F886DD21B73BA0CFC65",
+        "dados":  {
+                      "regioes":  156,
+                      "residuosAgrupados":  12,
+                      "cortesRevisados":  2,
+                      "pixelsClarosRecuperados":  11085,
+                      "maiorRegiao":  314466
+                  }
+    },
+    {
+        "pagina":  9,
+        "arteSHA256":  "97ACE225690F36559310A19ED37648ED4410F6D36FC57EA5413A581A4C0C3347",
+        "legadoSHA256":  "D611427B9E6DB805B41F0E48A33EBAE89CAFBDA1F04D6B070EBDCB4E16409246",
+        "dados":  {
+                      "regioes":  145,
+                      "residuosAgrupados":  22,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  11368,
+                      "maiorRegiao":  286567
+                  }
+    },
+    {
+        "pagina":  10,
+        "arteSHA256":  "3A5AD92DA6EBD9E17FF5DEFC6D2CC1EE116D036714F87F9C35729C9F1836505B",
+        "legadoSHA256":  "4A4B9989FA4C1387DF381E63E3BC08ADC8350E4DCEF6682F64D18188D9086B1F",
+        "dados":  {
+                      "regioes":  243,
+                      "residuosAgrupados":  19,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  10502,
+                      "maiorRegiao":  378699
+                  }
+    },
+    {
+        "pagina":  11,
+        "arteSHA256":  "3883E5AEE87F58E04EBA1E761006F69D2FEF7C9F215C6B57C763D21BDD5C3C0D",
+        "legadoSHA256":  "1738E4AB88E0324442ABAB6AD07CEFF0DF7624BC10A9E37E56FB03FF2F8E6EB6",
+        "dados":  {
+                      "regioes":  149,
+                      "residuosAgrupados":  27,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  11520,
+                      "maiorRegiao":  370757
+                  }
+    },
+    {
+        "pagina":  12,
+        "arteSHA256":  "3F46335477E572AA108B6E56BB69F569C18526DF919D173A6AE7052D82D1769A",
+        "legadoSHA256":  "B14328DC60E4E69B3A718FF094D5B7C165229B4D643BDD99395CF66AD789DCA1",
+        "dados":  {
+                      "regioes":  94,
+                      "residuosAgrupados":  6,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  5651,
+                      "maiorRegiao":  298903
+                  }
+    },
+    {
+        "pagina":  13,
+        "arteSHA256":  "89A4F34FFDADB7F7B652600B7D700B434356872F8E4E72B22476AE11052729D4",
+        "legadoSHA256":  "7FB6E06624E3950697DD1DF41BAAA5BDD36C010B47FF2315B272AE191A681871",
+        "dados":  {
+                      "regioes":  202,
+                      "residuosAgrupados":  23,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  10797,
+                      "maiorRegiao":  310497
+                  }
+    },
+    {
+        "pagina":  14,
+        "arteSHA256":  "7ED0530885059AF76F2DB3A8C492456F8BA55F8A1708AF606076678CF71EBC6D",
+        "legadoSHA256":  "856BA15ED71BEBB745610212CE298C866236CB4F44614AECC2C67A31DF9154CD",
+        "dados":  {
+                      "regioes":  91,
+                      "residuosAgrupados":  6,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  5873,
+                      "maiorRegiao":  270520
+                  }
+    },
+    {
+        "pagina":  15,
+        "arteSHA256":  "45FB447A767C30D518F3505EA6711F26AB1C1F67CE9111BB7EA4EB95BFF2AB93",
+        "legadoSHA256":  "766DD83C9801AE0193CED803B2B20AE45A95DF4621A74D1E12AC2EE798E6B575",
+        "dados":  {
+                      "regioes":  174,
+                      "residuosAgrupados":  21,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  10580,
+                      "maiorRegiao":  256237
+                  }
+    },
+    {
+        "pagina":  16,
+        "arteSHA256":  "196FD3F0B0626EC75B0E9B4C9E0970E0F7CB7BB2AD78A16F0FE1BD17DFBF4C54",
+        "legadoSHA256":  "2CDE2E37D30BD3DB9C3DFE858CB2211B590B5752763B8D612B03337F867F016F",
+        "dados":  {
+                      "regioes":  137,
+                      "residuosAgrupados":  6,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  7304,
+                      "maiorRegiao":  366449
+                  }
+    },
+    {
+        "pagina":  17,
+        "arteSHA256":  "358FABB403EE55C212E7D3E2F786BDA24D4FC057FD4B22AD55EADAF80EFA2193",
+        "legadoSHA256":  "8517A72CC505E93D8C0DAD64B6D1F4C43813F7AF55550B642EC33CF380EC3367",
+        "dados":  {
+                      "regioes":  113,
+                      "residuosAgrupados":  8,
+                      "cortesRevisados":  2,
+                      "pixelsClarosRecuperados":  14625,
+                      "maiorRegiao":  379927
+                  }
+    },
+    {
+        "pagina":  18,
+        "arteSHA256":  "D22719767091FF994027B764E74A2F91A0356D928FA3FB282D1F1C07599F3A6E",
+        "legadoSHA256":  "37E5C2368C8E5BBA974120FBFB329A29B4CEAC0616898F9E9FA29E451551D4C0",
+        "dados":  {
+                      "regioes":  123,
+                      "residuosAgrupados":  9,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  10352,
+                      "maiorRegiao":  387380
+                  }
+    },
+    {
+        "pagina":  19,
+        "arteSHA256":  "312E501F874B1C584788883F20E7DF7EF5C8561E5EB8515D5CBC3EEE8A8F3EC8",
+        "legadoSHA256":  "D9BC35DC297A3DCEE45EF422FB222BE3D0716BB9484B35D23804E84C2110C82A",
+        "dados":  {
+                      "regioes":  168,
+                      "residuosAgrupados":  24,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  10430,
+                      "maiorRegiao":  347483
+                  }
+    },
+    {
+        "pagina":  20,
+        "arteSHA256":  "818420475515310E8E1F5722BC33E4D3B7026F6838B3CE541C4130DB86E6E06B",
+        "legadoSHA256":  "069A566487C6469FEE9F0C13FF77B1E6743BC7EC34015CFAFC43F6D1539FD100",
+        "dados":  {
+                      "regioes":  109,
+                      "residuosAgrupados":  21,
+                      "cortesRevisados":  5,
+                      "pixelsClarosRecuperados":  7746,
+                      "maiorRegiao":  394766
+                  }
+    },
+    {
+        "pagina":  21,
+        "arteSHA256":  "E0BB80FDCFA5E06988DC5D665D501E3C625C4FD6724C4A67BB5FE6AF51742FD8",
+        "legadoSHA256":  "F89382A665583DDC8A938F470C6CEF91D459FE1A5324C5EAD98EFD6BDCA1F910",
+        "dados":  {
+                      "regioes":  105,
+                      "residuosAgrupados":  17,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  8200,
+                      "maiorRegiao":  313034
+                  }
+    },
+    {
+        "pagina":  22,
+        "arteSHA256":  "80B660E969CD157FA72950A85A60C14AD7674ADE84BB3D25CBF1C7574CD12484",
+        "legadoSHA256":  "CEAF5B51C677C4441B4CB621776690037352F3D56AF141A2862B3B32F8B8963C",
+        "dados":  {
+                      "regioes":  57,
+                      "residuosAgrupados":  1,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  5700,
+                      "maiorRegiao":  445290
+                  }
+    },
+    {
+        "pagina":  23,
+        "arteSHA256":  "CBA09F039007A2003662DA5EAAD9E2C48FE03D7FE316B48BE94EE8A5C15C4353",
+        "legadoSHA256":  "8164897A7FF7A9F1639E110DBA4D175D70478D113616DF9AA4E08856AFD02719",
+        "dados":  {
+                      "regioes":  189,
+                      "residuosAgrupados":  30,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  14818,
+                      "maiorRegiao":  248823
+                  }
+    },
+    {
+        "pagina":  24,
+        "arteSHA256":  "1886CB30DBB8A84CD19FD7DF7605AFEA618772912B6394B85FE07BF379F3D5A4",
+        "legadoSHA256":  "21D12090E0C2330624B24BDF80896F365F60D3801B17BF2119ADBB1618891279",
+        "dados":  {
+                      "regioes":  127,
+                      "residuosAgrupados":  13,
+                      "cortesRevisados":  4,
+                      "pixelsClarosRecuperados":  9921,
+                      "maiorRegiao":  333106
+                  }
+    },
+    {
+        "pagina":  25,
+        "arteSHA256":  "70D2FF7EFB6519EAF125E837B37726AFF4617AEB49092907787AD4077F0D8FB1",
+        "legadoSHA256":  "C4F3D180B9EF34B16F316D879C3DB2C1E144AA0BCF7A1379DA3870523B43AD89",
+        "dados":  {
+                      "regioes":  182,
+                      "residuosAgrupados":  23,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  10254,
+                      "maiorRegiao":  275213
+                  }
+    },
+    {
+        "pagina":  26,
+        "arteSHA256":  "39E82ABD840BA242CC80A429089F1A12A114D61D35DE665B4B8F42887C90AC31",
+        "legadoSHA256":  "70B06DA2766EA89B66E5EFA379A8D48494B1F7E1DBFC1881BDEB0CB4571EBD1F",
+        "dados":  {
+                      "regioes":  184,
+                      "residuosAgrupados":  20,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  13198,
+                      "maiorRegiao":  280161
+                  }
+    },
+    {
+        "pagina":  27,
+        "arteSHA256":  "A66A2135E52937759509715AB37A6386CC723A09B111D9C7E48813CA1B8EC20E",
+        "legadoSHA256":  "6A546810D0C6BCA7CDA1D6BF13600EA719F183ED56133B61487ECA4044B2849D",
+        "dados":  {
+                      "regioes":  122,
+                      "residuosAgrupados":  13,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  11380,
+                      "maiorRegiao":  355989
+                  }
+    },
+    {
+        "pagina":  28,
+        "arteSHA256":  "2465ADFC39F61C6212BEA5D46EEEABDE189E689AB7BE36B8D10ADE9D65B4083F",
+        "legadoSHA256":  "960C61668511C3D3C4758C4FC3E147764B1A3B6833C5B4E6F46FEA1CEA0219E6",
+        "dados":  {
+                      "regioes":  100,
+                      "residuosAgrupados":  35,
+                      "cortesRevisados":  1,
+                      "pixelsClarosRecuperados":  8826,
+                      "maiorRegiao":  290424
+                  }
+    },
+    {
+        "pagina":  29,
+        "arteSHA256":  "AC93CBB71AD795CB4C34D32B41FBED16C8040725B8D7B97A900E898B176DB33E",
+        "legadoSHA256":  "D09E1727C7965BCB36ACCE84FC56662D040C58FF0198D18657F36CEC8BEAAC12",
+        "dados":  {
+                      "regioes":  163,
+                      "residuosAgrupados":  30,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  13404,
+                      "maiorRegiao":  218565
+                  }
+    },
+    {
+        "pagina":  30,
+        "arteSHA256":  "60DD951966F29C22606EA4402BA04C257025FA06DA705C3A5D65D3379D9E504B",
+        "legadoSHA256":  "1670ABA3FCA1374EFEAC7260C80A03C631EB53178F15521DC938502FC0EC1D5B",
+        "dados":  {
+                      "regioes":  194,
+                      "residuosAgrupados":  16,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  9233,
+                      "maiorRegiao":  274630
+                  }
+    },
+    {
+        "pagina":  31,
+        "arteSHA256":  "24B1D25A193AB0EC469251CA1F984F193C638D13883EC7FF96ECFCE2E4F6D7E7",
+        "legadoSHA256":  "F557CDDEAD2BDD49101FE24F401656CC3CBDCFDF587D4AF4CCAD31D495170D37",
+        "dados":  {
+                      "regioes":  350,
+                      "residuosAgrupados":  63,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  17476,
+                      "maiorRegiao":  212036
+                  }
+    },
+    {
+        "pagina":  32,
+        "arteSHA256":  "3B3EF14102EE67722672ACB5EB1E3E18E3329DC6BF898F3012E93F7A2FB758D4",
+        "legadoSHA256":  "5D94758B0545B1A02A131B3D1B11DDBDE16B5277F583044349F690B808294798",
+        "dados":  {
+                      "regioes":  88,
+                      "residuosAgrupados":  9,
+                      "cortesRevisados":  0,
+                      "pixelsClarosRecuperados":  5251,
+                      "maiorRegiao":  445199
+                  }
+    }
+]

@@ -1,0 +1,6 @@
+materiais-originais/
+backups/
+.tmp/
+.npm-cache/
+node_modules/
+dist/

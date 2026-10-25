@@ -1,0 +1,218 @@
+[
+    {
+        "tipo":  "livro",
+        "id":  "bosque",
+        "idioma":  "en-US",
+        "origem":  "Traducoes_Bosque_v1\\ingles\\The_Woods_Are_Calling_ILUSTRADO_EN_v3.pdf",
+        "sha256":  "E03E02B611F0D8737687ECC0E987C8B97C3D704448D44C9C5233D25F77C119FE",
+        "paginas":  38,
+        "publicadoCompleto":  true
+    },
+    {
+        "tipo":  "goodies",
+        "id":  "bosque",
+        "idioma":  "en-US",
+        "origem":  "Aurora_Goodies_Traducoes_v1\\ingles\\Aurora_Goodies_01_The_Woods_Are_Calling_EN_v1.pdf",
+        "sha256":  "168EDE9C9418E5E8C7F55F74A7B764FE6F6A2498EA496FFD2570D6154D3E1AD5",
+        "paginas":  33,
+        "publicadoCompleto":  true
+    },
+    {
+        "tipo":  "livro",
+        "id":  "amizade",
+        "idioma":  "en-US",
+        "origem":  "Traducoes_Amizade_v1\\ingles\\The_Great_Friendship_Adventure_ILUSTRADO_EN_v1.pdf",
+        "sha256":  "55CA80FDDAC9B13107131CE49FB8F1A98AD7AE7563811FFF07A25A4F63F38A55",
+        "paginas":  36,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "goodies",
+        "id":  "amizade",
+        "idioma":  "en-US",
+        "origem":  "Aurora_Goodies_Traducoes_v1\\ingles\\Aurora_Goodies_02_The_Great_Friendship_Adventure_EN_v1.pdf",
+        "sha256":  "A7161C811DF7437949D83F87C99509E6970C5EAEB69EB1397A134B1C4A9D54D9",
+        "paginas":  32,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "livro",
+        "id":  "misterio",
+        "idioma":  "en-US",
+        "origem":  "Traducoes_Brilha_Escuro_v1\\ingles\\The_Glow_in_the_Dark_Mystery_ILUSTRADO_EN_v2.pdf",
+        "sha256":  "0EA7A4AABF1A2259824D3451C36EA002F759CFF13A93F9F0C99C62F47F03FCBC",
+        "paginas":  38,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "goodies",
+        "id":  "misterio",
+        "idioma":  "en-US",
+        "origem":  "Aurora_Goodies_Traducoes_v1\\ingles\\Aurora_Goodies_03_The_Glow_in_the_Dark_Mystery_EN_v1.pdf",
+        "sha256":  "187FD3FFFE44C34DE34C24666CF2591437A3E4478F58586BD53A4134800A859D",
+        "paginas":  34,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "livro",
+        "id":  "alfabeto",
+        "idioma":  "en-US",
+        "origem":  "Traducoes_Alfabeto_v1\\ingles\\The_Alphabet_Adventure_and_the_Lesson_of_the_Talking_Caterpillars_ILUSTRADO_EN_v2.pdf",
+        "sha256":  "FE7CC8E521A28AD1EDAA70EF2DC1E5BB20DCB84F2FFB8959D19B2055B0AC07F3",
+        "paginas":  37,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "goodies",
+        "id":  "alfabeto",
+        "idioma":  "en-US",
+        "origem":  "Aurora_Goodies_Traducoes_v1\\ingles\\Aurora_Goodies_04_The_Alphabet_Adventure_and_the_Lesson_of_the_Talking_Caterpillars_EN_v1.pdf",
+        "sha256":  "F4467FFF5381DF118A912938F116C082FD7E1253587246E2AA60944520C333A5",
+        "paginas":  33,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "livro",
+        "id":  "comilona",
+        "idioma":  "en-US",
+        "origem":  "Traducoes_Comilona_v1\\ingles\\The_Hungry_Friends_Adventure_and_the_Happy_Tummy_Treasure_ILUSTRADO_EN_v2.pdf",
+        "sha256":  "C79EF65B260BED7071F9F43313C1141A55197CBEDFEFB76F7A7A212024DF6316",
+        "paginas":  41,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "goodies",
+        "id":  "comilona",
+        "idioma":  "en-US",
+        "origem":  "Aurora_Goodies_Traducoes_v1\\ingles\\Aurora_Goodies_05_The_Hungry_Friends_Adventure_and_the_Happy_Tummy_Treasure_EN_v1.pdf",
+        "sha256":  "634CE55282CE72232B243B372ECBBA8ABEFCFA298B239031BCDB4603E298C336",
+        "paginas":  37,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "livro",
+        "id":  "estacoes",
+        "idioma":  "en-US",
+        "origem":  "Traducoes_Quatro_Estacoes_v1\\ingles\\The_Four_Seasons_Adventure_ILUSTRADO_EN_v2.pdf",
+        "sha256":  "A05DC4D88DB268C2E66C0FE917ADE004674015D1FF868189AE9958A8A966B667",
+        "paginas":  39,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "goodies",
+        "id":  "estacoes",
+        "idioma":  "en-US",
+        "origem":  "Aurora_Goodies_Traducoes_v1\\ingles\\Aurora_Goodies_06_The_Four_Seasons_Adventure_EN_v1.pdf",
+        "sha256":  "4D60994BFF875BB2EF49984B5898C14A7FAE51E57F6195681B81DB62F856B563",
+        "paginas":  35,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "livro",
+        "id":  "bosque",
+        "idioma":  "es-ES",
+        "origem":  "Traducoes_Bosque_v1\\espanhol\\El_Bosque_Nos_Llama_ILUSTRADO_ES_v3.pdf",
+        "sha256":  "0850C7BF69D6E202E6AC39477E13CFF4ACA01E8C1AFDE852810B5E277F9EF72B",
+        "paginas":  38,
+        "publicadoCompleto":  true
+    },
+    {
+        "tipo":  "goodies",
+        "id":  "bosque",
+        "idioma":  "es-ES",
+        "origem":  "Aurora_Goodies_Traducoes_v1\\espanhol\\Aurora_Goodies_01_El_Bosque_Nos_Llama_ES_v1.pdf",
+        "sha256":  "00CAFADD2BE9AD60825EE1DFB46563B8D004C9DF03BCABFBD2177A8A6C279531",
+        "paginas":  33,
+        "publicadoCompleto":  true
+    },
+    {
+        "tipo":  "livro",
+        "id":  "amizade",
+        "idioma":  "es-ES",
+        "origem":  "Traducoes_Amizade_v1\\espanhol\\La_Gran_Aventura_de_la_Amistad_ILUSTRADO_ES_v1.pdf",
+        "sha256":  "B2FFB9CE6D3975397BCA4FA73759C6B517DCB9573D92AF7A3EAD6AFD4776A9CB",
+        "paginas":  36,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "goodies",
+        "id":  "amizade",
+        "idioma":  "es-ES",
+        "origem":  "Aurora_Goodies_Traducoes_v1\\espanhol\\Aurora_Goodies_02_La_Gran_Aventura_de_la_Amistad_ES_v1.pdf",
+        "sha256":  "37895BE65F5D8BF49EBFD939ABBCEEF6FE23DAC1F75F0CBEFAD4D46756086394",
+        "paginas":  32,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "livro",
+        "id":  "misterio",
+        "idioma":  "es-ES",
+        "origem":  "Traducoes_Brilha_Escuro_v1\\espanhol\\El_Misterio_del_Brillo_en_la_Oscuridad_ILUSTRADO_ES_v2.pdf",
+        "sha256":  "12791237183F6FA5657EAE2764DD9095326F5E16C6DEA7D9ADC8BA6C66BDB48B",
+        "paginas":  38,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "goodies",
+        "id":  "misterio",
+        "idioma":  "es-ES",
+        "origem":  "Aurora_Goodies_Traducoes_v1\\espanhol\\Aurora_Goodies_03_El_Misterio_del_Brillo_en_la_Oscuridad_ES_v1.pdf",
+        "sha256":  "9C392F0764E9FD73E1508C4813319EE0FFAE5381EBD96B2AB183ECE45697536A",
+        "paginas":  34,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "livro",
+        "id":  "alfabeto",
+        "idioma":  "es-ES",
+        "origem":  "Traducoes_Alfabeto_v1\\espanhol\\La_Aventura_del_Alfabeto_y_la_Leccion_de_las_Orugas_Parlantes_ILUSTRADO_ES_v2.pdf",
+        "sha256":  "60B928B890A92B1BDC6AC4A20A2AB66056EC78EB37B51AD3D3DD756941F1252C",
+        "paginas":  37,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "goodies",
+        "id":  "alfabeto",
+        "idioma":  "es-ES",
+        "origem":  "Aurora_Goodies_Traducoes_v1\\espanhol\\Aurora_Goodies_04_La_Aventura_del_Alfabeto_y_la_Leccion_de_las_Orugas_Parlantes_ES_v1.pdf",
+        "sha256":  "CE13C03A2233894C454BDAF62E703C27B6DCA6A6C9D2680416A9B1C84CFBBD6E",
+        "paginas":  33,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "livro",
+        "id":  "comilona",
+        "idioma":  "es-ES",
+        "origem":  "Traducoes_Comilona_v1\\espanhol\\La_Aventura_de_la_Comilona_y_el_Tesoro_de_la_Barriga_Feliz_ILUSTRADO_ES_v2.pdf",
+        "sha256":  "EF1985C757631E1846DC42C9ABD4A174D5C7E7B34F53C097DFD59BFD67334AB7",
+        "paginas":  41,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "goodies",
+        "id":  "comilona",
+        "idioma":  "es-ES",
+        "origem":  "Aurora_Goodies_Traducoes_v1\\espanhol\\Aurora_Goodies_05_La_Aventura_de_la_Comilona_y_el_Tesoro_de_la_Barriga_Feliz_ES_v1.pdf",
+        "sha256":  "C91DE6BB8EBCC15CDC4EA8905D5F741A77D675FAE4D85B65E185259168E3C3FA",
+        "paginas":  37,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "livro",
+        "id":  "estacoes",
+        "idioma":  "es-ES",
+        "origem":  "Traducoes_Quatro_Estacoes_v1\\espanhol\\La_Aventura_de_las_Cuatro_Estaciones_ILUSTRADO_ES_v2.pdf",
+        "sha256":  "02B221ACED40C5C3C8DD779E4F092F99721E47993E5969D240D9F1443384C362",
+        "paginas":  39,
+        "publicadoCompleto":  false
+    },
+    {
+        "tipo":  "goodies",
+        "id":  "estacoes",
+        "idioma":  "es-ES",
+        "origem":  "Aurora_Goodies_Traducoes_v1\\espanhol\\Aurora_Goodies_06_La_Aventura_de_las_Cuatro_Estaciones_ES_v1.pdf",
+        "sha256":  "A2840D4E88639AD7EC5C2C9CCF94A2784EA1ABA09923CB2F23BC93DD6C7C2B9E",
+        "paginas":  35,
+        "publicadoCompleto":  false
+    }
+]

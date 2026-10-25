@@ -1,0 +1,1014 @@
+{
+  "finalidade": "Planejamento de áudios próprios para Descobertas; os MP3 ainda não foram produzidos nem referenciados pela aplicação.",
+  "total": 168,
+  "itens": [
+    {
+      "id": "abelha",
+      "idioma": "pt-BR",
+      "texto": "abelha",
+      "arquivo": "audio/descobertas/pt-BR/abelha.mp3"
+    },
+    {
+      "id": "bola",
+      "idioma": "pt-BR",
+      "texto": "bola",
+      "arquivo": "audio/descobertas/pt-BR/bola.mp3"
+    },
+    {
+      "id": "bala",
+      "idioma": "pt-BR",
+      "texto": "bala",
+      "arquivo": "audio/descobertas/pt-BR/bala.mp3"
+    },
+    {
+      "id": "suco",
+      "idioma": "pt-BR",
+      "texto": "suco",
+      "arquivo": "audio/descobertas/pt-BR/suco.mp3"
+    },
+    {
+      "id": "mala",
+      "idioma": "pt-BR",
+      "texto": "mala",
+      "arquivo": "audio/descobertas/pt-BR/mala.mp3"
+    },
+    {
+      "id": "banana",
+      "idioma": "pt-BR",
+      "texto": "banana",
+      "arquivo": "audio/descobertas/pt-BR/banana.mp3"
+    },
+    {
+      "id": "gato",
+      "idioma": "pt-BR",
+      "texto": "gato",
+      "arquivo": "audio/descobertas/pt-BR/gato.mp3"
+    },
+    {
+      "id": "pato",
+      "idioma": "pt-BR",
+      "texto": "pato",
+      "arquivo": "audio/descobertas/pt-BR/pato.mp3"
+    },
+    {
+      "id": "flor",
+      "idioma": "pt-BR",
+      "texto": "flor",
+      "arquivo": "audio/descobertas/pt-BR/flor.mp3"
+    },
+    {
+      "id": "pao",
+      "idioma": "pt-BR",
+      "texto": "pão",
+      "arquivo": "audio/descobertas/pt-BR/pao.mp3"
+    },
+    {
+      "id": "circulo",
+      "idioma": "pt-BR",
+      "texto": "círculo",
+      "arquivo": "audio/descobertas/pt-BR/circulo.mp3"
+    },
+    {
+      "id": "quadrado",
+      "idioma": "pt-BR",
+      "texto": "quadrado",
+      "arquivo": "audio/descobertas/pt-BR/quadrado.mp3"
+    },
+    {
+      "id": "triangulo",
+      "idioma": "pt-BR",
+      "texto": "triângulo",
+      "arquivo": "audio/descobertas/pt-BR/triangulo.mp3"
+    },
+    {
+      "id": "retangulo",
+      "idioma": "pt-BR",
+      "texto": "retângulo",
+      "arquivo": "audio/descobertas/pt-BR/retangulo.mp3"
+    },
+    {
+      "id": "numero-0",
+      "idioma": "pt-BR",
+      "texto": "zero",
+      "arquivo": "audio/descobertas/pt-BR/numero-0.mp3"
+    },
+    {
+      "id": "numero-1",
+      "idioma": "pt-BR",
+      "texto": "um",
+      "arquivo": "audio/descobertas/pt-BR/numero-1.mp3"
+    },
+    {
+      "id": "numero-2",
+      "idioma": "pt-BR",
+      "texto": "dois",
+      "arquivo": "audio/descobertas/pt-BR/numero-2.mp3"
+    },
+    {
+      "id": "numero-3",
+      "idioma": "pt-BR",
+      "texto": "três",
+      "arquivo": "audio/descobertas/pt-BR/numero-3.mp3"
+    },
+    {
+      "id": "numero-4",
+      "idioma": "pt-BR",
+      "texto": "quatro",
+      "arquivo": "audio/descobertas/pt-BR/numero-4.mp3"
+    },
+    {
+      "id": "numero-5",
+      "idioma": "pt-BR",
+      "texto": "cinco",
+      "arquivo": "audio/descobertas/pt-BR/numero-5.mp3"
+    },
+    {
+      "id": "numero-6",
+      "idioma": "pt-BR",
+      "texto": "seis",
+      "arquivo": "audio/descobertas/pt-BR/numero-6.mp3"
+    },
+    {
+      "id": "numero-7",
+      "idioma": "pt-BR",
+      "texto": "sete",
+      "arquivo": "audio/descobertas/pt-BR/numero-7.mp3"
+    },
+    {
+      "id": "numero-8",
+      "idioma": "pt-BR",
+      "texto": "oito",
+      "arquivo": "audio/descobertas/pt-BR/numero-8.mp3"
+    },
+    {
+      "id": "numero-9",
+      "idioma": "pt-BR",
+      "texto": "nove",
+      "arquivo": "audio/descobertas/pt-BR/numero-9.mp3"
+    },
+    {
+      "id": "oculos",
+      "idioma": "pt-BR",
+      "texto": "óculos",
+      "arquivo": "audio/descobertas/pt-BR/oculos.mp3"
+    },
+    {
+      "id": "lanterna",
+      "idioma": "pt-BR",
+      "texto": "lanterna",
+      "arquivo": "audio/descobertas/pt-BR/lanterna.mp3"
+    },
+    {
+      "id": "mochila",
+      "idioma": "pt-BR",
+      "texto": "mochila",
+      "arquivo": "audio/descobertas/pt-BR/mochila.mp3"
+    },
+    {
+      "id": "borboleta",
+      "idioma": "pt-BR",
+      "texto": "borboleta",
+      "arquivo": "audio/descobertas/pt-BR/borboleta.mp3"
+    },
+    {
+      "id": "sanduiche",
+      "idioma": "pt-BR",
+      "texto": "sanduíche",
+      "arquivo": "audio/descobertas/pt-BR/sanduiche.mp3"
+    },
+    {
+      "id": "guarda-chuva",
+      "idioma": "pt-BR",
+      "texto": "guarda-chuva",
+      "arquivo": "audio/descobertas/pt-BR/guarda-chuva.mp3"
+    },
+    {
+      "id": "microscopio",
+      "idioma": "pt-BR",
+      "texto": "microscópio",
+      "arquivo": "audio/descobertas/pt-BR/microscopio.mp3"
+    },
+    {
+      "id": "telescopio",
+      "idioma": "pt-BR",
+      "texto": "telescópio",
+      "arquivo": "audio/descobertas/pt-BR/telescopio.mp3"
+    },
+    {
+      "id": "pentagono",
+      "idioma": "pt-BR",
+      "texto": "pentágono",
+      "arquivo": "audio/descobertas/pt-BR/pentagono.mp3"
+    },
+    {
+      "id": "hexagono",
+      "idioma": "pt-BR",
+      "texto": "hexágono",
+      "arquivo": "audio/descobertas/pt-BR/hexagono.mp3"
+    },
+    {
+      "id": "octogono",
+      "idioma": "pt-BR",
+      "texto": "octógono",
+      "arquivo": "audio/descobertas/pt-BR/octogono.mp3"
+    },
+    {
+      "id": "trapezio",
+      "idioma": "pt-BR",
+      "texto": "trapézio",
+      "arquivo": "audio/descobertas/pt-BR/trapezio.mp3"
+    },
+    {
+      "id": "losango",
+      "idioma": "pt-BR",
+      "texto": "losango",
+      "arquivo": "audio/descobertas/pt-BR/losango.mp3"
+    },
+    {
+      "id": "numero-10",
+      "idioma": "pt-BR",
+      "texto": "dez",
+      "arquivo": "audio/descobertas/pt-BR/numero-10.mp3"
+    },
+    {
+      "id": "numero-11",
+      "idioma": "pt-BR",
+      "texto": "onze",
+      "arquivo": "audio/descobertas/pt-BR/numero-11.mp3"
+    },
+    {
+      "id": "numero-12",
+      "idioma": "pt-BR",
+      "texto": "doze",
+      "arquivo": "audio/descobertas/pt-BR/numero-12.mp3"
+    },
+    {
+      "id": "numero-13",
+      "idioma": "pt-BR",
+      "texto": "treze",
+      "arquivo": "audio/descobertas/pt-BR/numero-13.mp3"
+    },
+    {
+      "id": "numero-14",
+      "idioma": "pt-BR",
+      "texto": "catorze",
+      "arquivo": "audio/descobertas/pt-BR/numero-14.mp3"
+    },
+    {
+      "id": "numero-15",
+      "idioma": "pt-BR",
+      "texto": "quinze",
+      "arquivo": "audio/descobertas/pt-BR/numero-15.mp3"
+    },
+    {
+      "id": "numero-16",
+      "idioma": "pt-BR",
+      "texto": "dezesseis",
+      "arquivo": "audio/descobertas/pt-BR/numero-16.mp3"
+    },
+    {
+      "id": "numero-17",
+      "idioma": "pt-BR",
+      "texto": "dezessete",
+      "arquivo": "audio/descobertas/pt-BR/numero-17.mp3"
+    },
+    {
+      "id": "numero-18",
+      "idioma": "pt-BR",
+      "texto": "dezoito",
+      "arquivo": "audio/descobertas/pt-BR/numero-18.mp3"
+    },
+    {
+      "id": "numero-19",
+      "idioma": "pt-BR",
+      "texto": "dezenove",
+      "arquivo": "audio/descobertas/pt-BR/numero-19.mp3"
+    },
+    {
+      "id": "numero-20",
+      "idioma": "pt-BR",
+      "texto": "vinte",
+      "arquivo": "audio/descobertas/pt-BR/numero-20.mp3"
+    },
+    {
+      "id": "numero-30",
+      "idioma": "pt-BR",
+      "texto": "trinta",
+      "arquivo": "audio/descobertas/pt-BR/numero-30.mp3"
+    },
+    {
+      "id": "numero-40",
+      "idioma": "pt-BR",
+      "texto": "quarenta",
+      "arquivo": "audio/descobertas/pt-BR/numero-40.mp3"
+    },
+    {
+      "id": "numero-50",
+      "idioma": "pt-BR",
+      "texto": "cinquenta",
+      "arquivo": "audio/descobertas/pt-BR/numero-50.mp3"
+    },
+    {
+      "id": "numero-60",
+      "idioma": "pt-BR",
+      "texto": "sessenta",
+      "arquivo": "audio/descobertas/pt-BR/numero-60.mp3"
+    },
+    {
+      "id": "numero-70",
+      "idioma": "pt-BR",
+      "texto": "setenta",
+      "arquivo": "audio/descobertas/pt-BR/numero-70.mp3"
+    },
+    {
+      "id": "numero-80",
+      "idioma": "pt-BR",
+      "texto": "oitenta",
+      "arquivo": "audio/descobertas/pt-BR/numero-80.mp3"
+    },
+    {
+      "id": "numero-90",
+      "idioma": "pt-BR",
+      "texto": "noventa",
+      "arquivo": "audio/descobertas/pt-BR/numero-90.mp3"
+    },
+    {
+      "id": "numero-100",
+      "idioma": "pt-BR",
+      "texto": "cem",
+      "arquivo": "audio/descobertas/pt-BR/numero-100.mp3"
+    },
+    {
+      "id": "abelha",
+      "idioma": "en-US",
+      "texto": "bee",
+      "arquivo": "audio/descobertas/en-US/abelha.mp3"
+    },
+    {
+      "id": "bola",
+      "idioma": "en-US",
+      "texto": "ball",
+      "arquivo": "audio/descobertas/en-US/bola.mp3"
+    },
+    {
+      "id": "bala",
+      "idioma": "en-US",
+      "texto": "candy",
+      "arquivo": "audio/descobertas/en-US/bala.mp3"
+    },
+    {
+      "id": "suco",
+      "idioma": "en-US",
+      "texto": "juice",
+      "arquivo": "audio/descobertas/en-US/suco.mp3"
+    },
+    {
+      "id": "mala",
+      "idioma": "en-US",
+      "texto": "suitcase",
+      "arquivo": "audio/descobertas/en-US/mala.mp3"
+    },
+    {
+      "id": "banana",
+      "idioma": "en-US",
+      "texto": "banana",
+      "arquivo": "audio/descobertas/en-US/banana.mp3"
+    },
+    {
+      "id": "gato",
+      "idioma": "en-US",
+      "texto": "cat",
+      "arquivo": "audio/descobertas/en-US/gato.mp3"
+    },
+    {
+      "id": "pato",
+      "idioma": "en-US",
+      "texto": "duck",
+      "arquivo": "audio/descobertas/en-US/pato.mp3"
+    },
+    {
+      "id": "flor",
+      "idioma": "en-US",
+      "texto": "flower",
+      "arquivo": "audio/descobertas/en-US/flor.mp3"
+    },
+    {
+      "id": "pao",
+      "idioma": "en-US",
+      "texto": "bread",
+      "arquivo": "audio/descobertas/en-US/pao.mp3"
+    },
+    {
+      "id": "circulo",
+      "idioma": "en-US",
+      "texto": "circle",
+      "arquivo": "audio/descobertas/en-US/circulo.mp3"
+    },
+    {
+      "id": "quadrado",
+      "idioma": "en-US",
+      "texto": "square",
+      "arquivo": "audio/descobertas/en-US/quadrado.mp3"
+    },
+    {
+      "id": "triangulo",
+      "idioma": "en-US",
+      "texto": "triangle",
+      "arquivo": "audio/descobertas/en-US/triangulo.mp3"
+    },
+    {
+      "id": "retangulo",
+      "idioma": "en-US",
+      "texto": "rectangle",
+      "arquivo": "audio/descobertas/en-US/retangulo.mp3"
+    },
+    {
+      "id": "numero-0",
+      "idioma": "en-US",
+      "texto": "zero",
+      "arquivo": "audio/descobertas/en-US/numero-0.mp3"
+    },
+    {
+      "id": "numero-1",
+      "idioma": "en-US",
+      "texto": "one",
+      "arquivo": "audio/descobertas/en-US/numero-1.mp3"
+    },
+    {
+      "id": "numero-2",
+      "idioma": "en-US",
+      "texto": "two",
+      "arquivo": "audio/descobertas/en-US/numero-2.mp3"
+    },
+    {
+      "id": "numero-3",
+      "idioma": "en-US",
+      "texto": "three",
+      "arquivo": "audio/descobertas/en-US/numero-3.mp3"
+    },
+    {
+      "id": "numero-4",
+      "idioma": "en-US",
+      "texto": "four",
+      "arquivo": "audio/descobertas/en-US/numero-4.mp3"
+    },
+    {
+      "id": "numero-5",
+      "idioma": "en-US",
+      "texto": "five",
+      "arquivo": "audio/descobertas/en-US/numero-5.mp3"
+    },
+    {
+      "id": "numero-6",
+      "idioma": "en-US",
+      "texto": "six",
+      "arquivo": "audio/descobertas/en-US/numero-6.mp3"
+    },
+    {
+      "id": "numero-7",
+      "idioma": "en-US",
+      "texto": "seven",
+      "arquivo": "audio/descobertas/en-US/numero-7.mp3"
+    },
+    {
+      "id": "numero-8",
+      "idioma": "en-US",
+      "texto": "eight",
+      "arquivo": "audio/descobertas/en-US/numero-8.mp3"
+    },
+    {
+      "id": "numero-9",
+      "idioma": "en-US",
+      "texto": "nine",
+      "arquivo": "audio/descobertas/en-US/numero-9.mp3"
+    },
+    {
+      "id": "oculos",
+      "idioma": "en-US",
+      "texto": "glasses",
+      "arquivo": "audio/descobertas/en-US/oculos.mp3"
+    },
+    {
+      "id": "lanterna",
+      "idioma": "en-US",
+      "texto": "flashlight",
+      "arquivo": "audio/descobertas/en-US/lanterna.mp3"
+    },
+    {
+      "id": "mochila",
+      "idioma": "en-US",
+      "texto": "backpack",
+      "arquivo": "audio/descobertas/en-US/mochila.mp3"
+    },
+    {
+      "id": "borboleta",
+      "idioma": "en-US",
+      "texto": "butterfly",
+      "arquivo": "audio/descobertas/en-US/borboleta.mp3"
+    },
+    {
+      "id": "sanduiche",
+      "idioma": "en-US",
+      "texto": "sandwich",
+      "arquivo": "audio/descobertas/en-US/sanduiche.mp3"
+    },
+    {
+      "id": "guarda-chuva",
+      "idioma": "en-US",
+      "texto": "umbrella",
+      "arquivo": "audio/descobertas/en-US/guarda-chuva.mp3"
+    },
+    {
+      "id": "microscopio",
+      "idioma": "en-US",
+      "texto": "microscope",
+      "arquivo": "audio/descobertas/en-US/microscopio.mp3"
+    },
+    {
+      "id": "telescopio",
+      "idioma": "en-US",
+      "texto": "telescope",
+      "arquivo": "audio/descobertas/en-US/telescopio.mp3"
+    },
+    {
+      "id": "pentagono",
+      "idioma": "en-US",
+      "texto": "pentagon",
+      "arquivo": "audio/descobertas/en-US/pentagono.mp3"
+    },
+    {
+      "id": "hexagono",
+      "idioma": "en-US",
+      "texto": "hexagon",
+      "arquivo": "audio/descobertas/en-US/hexagono.mp3"
+    },
+    {
+      "id": "octogono",
+      "idioma": "en-US",
+      "texto": "octagon",
+      "arquivo": "audio/descobertas/en-US/octogono.mp3"
+    },
+    {
+      "id": "trapezio",
+      "idioma": "en-US",
+      "texto": "trapezoid",
+      "arquivo": "audio/descobertas/en-US/trapezio.mp3"
+    },
+    {
+      "id": "losango",
+      "idioma": "en-US",
+      "texto": "rhombus",
+      "arquivo": "audio/descobertas/en-US/losango.mp3"
+    },
+    {
+      "id": "numero-10",
+      "idioma": "en-US",
+      "texto": "ten",
+      "arquivo": "audio/descobertas/en-US/numero-10.mp3"
+    },
+    {
+      "id": "numero-11",
+      "idioma": "en-US",
+      "texto": "eleven",
+      "arquivo": "audio/descobertas/en-US/numero-11.mp3"
+    },
+    {
+      "id": "numero-12",
+      "idioma": "en-US",
+      "texto": "twelve",
+      "arquivo": "audio/descobertas/en-US/numero-12.mp3"
+    },
+    {
+      "id": "numero-13",
+      "idioma": "en-US",
+      "texto": "thirteen",
+      "arquivo": "audio/descobertas/en-US/numero-13.mp3"
+    },
+    {
+      "id": "numero-14",
+      "idioma": "en-US",
+      "texto": "fourteen",
+      "arquivo": "audio/descobertas/en-US/numero-14.mp3"
+    },
+    {
+      "id": "numero-15",
+      "idioma": "en-US",
+      "texto": "fifteen",
+      "arquivo": "audio/descobertas/en-US/numero-15.mp3"
+    },
+    {
+      "id": "numero-16",
+      "idioma": "en-US",
+      "texto": "sixteen",
+      "arquivo": "audio/descobertas/en-US/numero-16.mp3"
+    },
+    {
+      "id": "numero-17",
+      "idioma": "en-US",
+      "texto": "seventeen",
+      "arquivo": "audio/descobertas/en-US/numero-17.mp3"
+    },
+    {
+      "id": "numero-18",
+      "idioma": "en-US",
+      "texto": "eighteen",
+      "arquivo": "audio/descobertas/en-US/numero-18.mp3"
+    },
+    {
+      "id": "numero-19",
+      "idioma": "en-US",
+      "texto": "nineteen",
+      "arquivo": "audio/descobertas/en-US/numero-19.mp3"
+    },
+    {
+      "id": "numero-20",
+      "idioma": "en-US",
+      "texto": "twenty",
+      "arquivo": "audio/descobertas/en-US/numero-20.mp3"
+    },
+    {
+      "id": "numero-30",
+      "idioma": "en-US",
+      "texto": "thirty",
+      "arquivo": "audio/descobertas/en-US/numero-30.mp3"
+    },
+    {
+      "id": "numero-40",
+      "idioma": "en-US",
+      "texto": "forty",
+      "arquivo": "audio/descobertas/en-US/numero-40.mp3"
+    },
+    {
+      "id": "numero-50",
+      "idioma": "en-US",
+      "texto": "fifty",
+      "arquivo": "audio/descobertas/en-US/numero-50.mp3"
+    },
+    {
+      "id": "numero-60",
+      "idioma": "en-US",
+      "texto": "sixty",
+      "arquivo": "audio/descobertas/en-US/numero-60.mp3"
+    },
+    {
+      "id": "numero-70",
+      "idioma": "en-US",
+      "texto": "seventy",
+      "arquivo": "audio/descobertas/en-US/numero-70.mp3"
+    },
+    {
+      "id": "numero-80",
+      "idioma": "en-US",
+      "texto": "eighty",
+      "arquivo": "audio/descobertas/en-US/numero-80.mp3"
+    },
+    {
+      "id": "numero-90",
+      "idioma": "en-US",
+      "texto": "ninety",
+      "arquivo": "audio/descobertas/en-US/numero-90.mp3"
+    },
+    {
+      "id": "numero-100",
+      "idioma": "en-US",
+      "texto": "one hundred",
+      "arquivo": "audio/descobertas/en-US/numero-100.mp3"
+    },
+    {
+      "id": "abelha",
+      "idioma": "es-ES",
+      "texto": "abeja",
+      "arquivo": "audio/descobertas/es-ES/abelha.mp3"
+    },
+    {
+      "id": "bola",
+      "idioma": "es-ES",
+      "texto": "pelota",
+      "arquivo": "audio/descobertas/es-ES/bola.mp3"
+    },
+    {
+      "id": "bala",
+      "idioma": "es-ES",
+      "texto": "caramelo",
+      "arquivo": "audio/descobertas/es-ES/bala.mp3"
+    },
+    {
+      "id": "suco",
+      "idioma": "es-ES",
+      "texto": "zumo",
+      "arquivo": "audio/descobertas/es-ES/suco.mp3"
+    },
+    {
+      "id": "mala",
+      "idioma": "es-ES",
+      "texto": "maleta",
+      "arquivo": "audio/descobertas/es-ES/mala.mp3"
+    },
+    {
+      "id": "banana",
+      "idioma": "es-ES",
+      "texto": "plátano",
+      "arquivo": "audio/descobertas/es-ES/banana.mp3"
+    },
+    {
+      "id": "gato",
+      "idioma": "es-ES",
+      "texto": "gato",
+      "arquivo": "audio/descobertas/es-ES/gato.mp3"
+    },
+    {
+      "id": "pato",
+      "idioma": "es-ES",
+      "texto": "pato",
+      "arquivo": "audio/descobertas/es-ES/pato.mp3"
+    },
+    {
+      "id": "flor",
+      "idioma": "es-ES",
+      "texto": "flor",
+      "arquivo": "audio/descobertas/es-ES/flor.mp3"
+    },
+    {
+      "id": "pao",
+      "idioma": "es-ES",
+      "texto": "pan",
+      "arquivo": "audio/descobertas/es-ES/pao.mp3"
+    },
+    {
+      "id": "circulo",
+      "idioma": "es-ES",
+      "texto": "círculo",
+      "arquivo": "audio/descobertas/es-ES/circulo.mp3"
+    },
+    {
+      "id": "quadrado",
+      "idioma": "es-ES",
+      "texto": "cuadrado",
+      "arquivo": "audio/descobertas/es-ES/quadrado.mp3"
+    },
+    {
+      "id": "triangulo",
+      "idioma": "es-ES",
+      "texto": "triángulo",
+      "arquivo": "audio/descobertas/es-ES/triangulo.mp3"
+    },
+    {
+      "id": "retangulo",
+      "idioma": "es-ES",
+      "texto": "rectángulo",
+      "arquivo": "audio/descobertas/es-ES/retangulo.mp3"
+    },
+    {
+      "id": "numero-0",
+      "idioma": "es-ES",
+      "texto": "cero",
+      "arquivo": "audio/descobertas/es-ES/numero-0.mp3"
+    },
+    {
+      "id": "numero-1",
+      "idioma": "es-ES",
+      "texto": "uno",
+      "arquivo": "audio/descobertas/es-ES/numero-1.mp3"
+    },
+    {
+      "id": "numero-2",
+      "idioma": "es-ES",
+      "texto": "dos",
+      "arquivo": "audio/descobertas/es-ES/numero-2.mp3"
+    },
+    {
+      "id": "numero-3",
+      "idioma": "es-ES",
+      "texto": "tres",
+      "arquivo": "audio/descobertas/es-ES/numero-3.mp3"
+    },
+    {
+      "id": "numero-4",
+      "idioma": "es-ES",
+      "texto": "cuatro",
+      "arquivo": "audio/descobertas/es-ES/numero-4.mp3"
+    },
+    {
+      "id": "numero-5",
+      "idioma": "es-ES",
+      "texto": "cinco",
+      "arquivo": "audio/descobertas/es-ES/numero-5.mp3"
+    },
+    {
+      "id": "numero-6",
+      "idioma": "es-ES",
+      "texto": "seis",
+      "arquivo": "audio/descobertas/es-ES/numero-6.mp3"
+    },
+    {
+      "id": "numero-7",
+      "idioma": "es-ES",
+      "texto": "siete",
+      "arquivo": "audio/descobertas/es-ES/numero-7.mp3"
+    },
+    {
+      "id": "numero-8",
+      "idioma": "es-ES",
+      "texto": "ocho",
+      "arquivo": "audio/descobertas/es-ES/numero-8.mp3"
+    },
+    {
+      "id": "numero-9",
+      "idioma": "es-ES",
+      "texto": "nueve",
+      "arquivo": "audio/descobertas/es-ES/numero-9.mp3"
+    },
+    {
+      "id": "oculos",
+      "idioma": "es-ES",
+      "texto": "gafas",
+      "arquivo": "audio/descobertas/es-ES/oculos.mp3"
+    },
+    {
+      "id": "lanterna",
+      "idioma": "es-ES",
+      "texto": "linterna",
+      "arquivo": "audio/descobertas/es-ES/lanterna.mp3"
+    },
+    {
+      "id": "mochila",
+      "idioma": "es-ES",
+      "texto": "mochila",
+      "arquivo": "audio/descobertas/es-ES/mochila.mp3"
+    },
+    {
+      "id": "borboleta",
+      "idioma": "es-ES",
+      "texto": "mariposa",
+      "arquivo": "audio/descobertas/es-ES/borboleta.mp3"
+    },
+    {
+      "id": "sanduiche",
+      "idioma": "es-ES",
+      "texto": "bocadillo",
+      "arquivo": "audio/descobertas/es-ES/sanduiche.mp3"
+    },
+    {
+      "id": "guarda-chuva",
+      "idioma": "es-ES",
+      "texto": "paraguas",
+      "arquivo": "audio/descobertas/es-ES/guarda-chuva.mp3"
+    },
+    {
+      "id": "microscopio",
+      "idioma": "es-ES",
+      "texto": "microscopio",
+      "arquivo": "audio/descobertas/es-ES/microscopio.mp3"
+    },
+    {
+      "id": "telescopio",
+      "idioma": "es-ES",
+      "texto": "telescopio",
+      "arquivo": "audio/descobertas/es-ES/telescopio.mp3"
+    },
+    {
+      "id": "pentagono",
+      "idioma": "es-ES",
+      "texto": "pentágono",
+      "arquivo": "audio/descobertas/es-ES/pentagono.mp3"
+    },
+    {
+      "id": "hexagono",
+      "idioma": "es-ES",
+      "texto": "hexágono",
+      "arquivo": "audio/descobertas/es-ES/hexagono.mp3"
+    },
+    {
+      "id": "octogono",
+      "idioma": "es-ES",
+      "texto": "octógono",
+      "arquivo": "audio/descobertas/es-ES/octogono.mp3"
+    },
+    {
+      "id": "trapezio",
+      "idioma": "es-ES",
+      "texto": "trapecio",
+      "arquivo": "audio/descobertas/es-ES/trapezio.mp3"
+    },
+    {
+      "id": "losango",
+      "idioma": "es-ES",
+      "texto": "rombo",
+      "arquivo": "audio/descobertas/es-ES/losango.mp3"
+    },
+    {
+      "id": "numero-10",
+      "idioma": "es-ES",
+      "texto": "diez",
+      "arquivo": "audio/descobertas/es-ES/numero-10.mp3"
+    },
+    {
+      "id": "numero-11",
+      "idioma": "es-ES",
+      "texto": "once",
+      "arquivo": "audio/descobertas/es-ES/numero-11.mp3"
+    },
+    {
+      "id": "numero-12",
+      "idioma": "es-ES",
+      "texto": "doce",
+      "arquivo": "audio/descobertas/es-ES/numero-12.mp3"
+    },
+    {
+      "id": "numero-13",
+      "idioma": "es-ES",
+      "texto": "trece",
+      "arquivo": "audio/descobertas/es-ES/numero-13.mp3"
+    },
+    {
+      "id": "numero-14",
+      "idioma": "es-ES",
+      "texto": "catorce",
+      "arquivo": "audio/descobertas/es-ES/numero-14.mp3"
+    },
+    {
+      "id": "numero-15",
+      "idioma": "es-ES",
+      "texto": "quince",
+      "arquivo": "audio/descobertas/es-ES/numero-15.mp3"
+    },
+    {
+      "id": "numero-16",
+      "idioma": "es-ES",
+      "texto": "dieciséis",
+      "arquivo": "audio/descobertas/es-ES/numero-16.mp3"
+    },
+    {
+      "id": "numero-17",
+      "idioma": "es-ES",
+      "texto": "diecisiete",
+      "arquivo": "audio/descobertas/es-ES/numero-17.mp3"
+    },
+    {
+      "id": "numero-18",
+      "idioma": "es-ES",
+      "texto": "dieciocho",
+      "arquivo": "audio/descobertas/es-ES/numero-18.mp3"
+    },
+    {
+      "id": "numero-19",
+      "idioma": "es-ES",
+      "texto": "diecinueve",
+      "arquivo": "audio/descobertas/es-ES/numero-19.mp3"
+    },
+    {
+      "id": "numero-20",
+      "idioma": "es-ES",
+      "texto": "veinte",
+      "arquivo": "audio/descobertas/es-ES/numero-20.mp3"
+    },
+    {
+      "id": "numero-30",
+      "idioma": "es-ES",
+      "texto": "treinta",
+      "arquivo": "audio/descobertas/es-ES/numero-30.mp3"
+    },
+    {
+      "id": "numero-40",
+      "idioma": "es-ES",
+      "texto": "cuarenta",
+      "arquivo": "audio/descobertas/es-ES/numero-40.mp3"
+    },
+    {
+      "id": "numero-50",
+      "idioma": "es-ES",
+      "texto": "cincuenta",
+      "arquivo": "audio/descobertas/es-ES/numero-50.mp3"
+    },
+    {
+      "id": "numero-60",
+      "idioma": "es-ES",
+      "texto": "sesenta",
+      "arquivo": "audio/descobertas/es-ES/numero-60.mp3"
+    },
+    {
+      "id": "numero-70",
+      "idioma": "es-ES",
+      "texto": "setenta",
+      "arquivo": "audio/descobertas/es-ES/numero-70.mp3"
+    },
+    {
+      "id": "numero-80",
+      "idioma": "es-ES",
+      "texto": "ochenta",
+      "arquivo": "audio/descobertas/es-ES/numero-80.mp3"
+    },
+    {
+      "id": "numero-90",
+      "idioma": "es-ES",
+      "texto": "noventa",
+      "arquivo": "audio/descobertas/es-ES/numero-90.mp3"
+    },
+    {
+      "id": "numero-100",
+      "idioma": "es-ES",
+      "texto": "cien",
+      "arquivo": "audio/descobertas/es-ES/numero-100.mp3"
+    }
+  ]
+}

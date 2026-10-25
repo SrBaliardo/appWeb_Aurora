@@ -1,0 +1,37 @@
+{
+  "name": "aventuras-da-aurora",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Um bosque de brincadeiras para aprender com Aurora.",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "dev": "node node_modules/vite/bin/vite.js --host 127.0.0.1 --configLoader runner",
+    "build": "node node_modules/vite/bin/vite.js build --configLoader runner",
+    "preview": "node node_modules/vite/bin/vite.js preview --host 127.0.0.1",
+    "lint": "npm run lint:code && npm run format:check",
+    "test": "node --test tests/*.test.js",
+    "lint:code": "node node_modules/eslint/bin/eslint.js src tests vite.config.js --ext js,jsx --max-warnings 0",
+    "format": "node node_modules/prettier/bin/prettier.cjs --write \"src/**/*.{js,jsx}\" \"tests/**/*.js\" \"scripts/**/*.mjs\" \"*.{js,cjs,json}\" \".eslintrc.cjs\" \".prettierrc.json\" \".vscode/*.json\"",
+    "format:check": "node node_modules/prettier/bin/prettier.cjs --check \"src/**/*.{js,jsx}\" \"tests/**/*.js\" \"scripts/**/*.mjs\" \"*.{js,cjs,json}\" \".eslintrc.cjs\" \".prettierrc.json\" \".vscode/*.json\""
+  },
+  "dependencies": {
+    "@emotion/react": "11.11.4",
+    "@emotion/styled": "11.11.5",
+    "@mui/material": "5.16.4",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "styled-components": "6.1.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "5.0.0",
+    "eslint": "8.57.0",
+    "eslint-plugin-react": "7.34.4",
+    "eslint-plugin-react-hooks": "4.6.2",
+    "vite": "7.3.7",
+    "yaml": "2.9.1",
+    "prettier": "3.7.4"
+  }
+}

@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.tmp/
+.npm-cache/
+*.local
+*.log
+.DS_Store
+backups/
+materiais-originais/
+# Proteção para originais novos que ainda não tenham sido organizados.
+/*.pdf
+/livrosColorir/
+.vercel/
+.env
+.env.*
+!.env.example

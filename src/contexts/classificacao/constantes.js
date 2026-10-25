@@ -1,0 +1,157 @@
+export const CENARIOS = [
+  {
+    id: "colecoes",
+    nivel: "facil",
+    grupos: [
+      {
+        id: "frutas",
+        nome: "Frutas",
+        figura: "🍎",
+        itens: [
+          ["maca", "🍎", "Maçã"],
+          ["banana", "🍌", "Banana"],
+          ["morango", "🍓", "Morango"],
+          ["uva", "🍇", "Uva"],
+        ],
+      },
+      {
+        id: "animais",
+        nome: "Animais",
+        figura: "🐰",
+        itens: [
+          ["coelho", "🐰", "Coelho"],
+          ["raposa", "🦊", "Raposa"],
+          ["peixe", "🐟", "Peixe"],
+          ["tartaruga", "🐢", "Tartaruga"],
+        ],
+      },
+      {
+        id: "brinquedos",
+        nome: "Brinquedos",
+        figura: "🧸",
+        itens: [
+          ["bola", "⚽", "Bola"],
+          ["ursinho", "🧸", "Urso de pelúcia"],
+          ["trem", "🚂", "Trem"],
+          ["pipa", "🪁", "Pipa"],
+        ],
+      },
+    ],
+  },
+  {
+    id: "habitats",
+    nivel: "dificil",
+    grupos: [
+      {
+        id: "bosque",
+        nome: "Mamíferos da floresta",
+        figura: "🌳",
+        itens: [
+          ["raposa", "🦊", "Raposa"],
+          ["coelho", "🐰", "Coelho"],
+          ["esquilo", "🐿️", "Esquilo"],
+          ["cervo", "🦌", "Cervo"],
+          ["urso", "🐻", "Urso"],
+          ["ourico", "🦔", "Ouriço"],
+        ],
+      },
+      {
+        id: "mar",
+        nome: "Animais do mar",
+        figura: "🌊",
+        itens: [
+          ["baleia", "🐳", "Baleia"],
+          ["golfinho", "🐬", "Golfinho"],
+          ["polvo", "🐙", "Polvo"],
+          ["tubarao", "🦈", "Tubarão"],
+          ["peixe", "🐟", "Peixe"],
+          ["caranguejo", "🦀", "Caranguejo"],
+        ],
+      },
+      {
+        id: "aves",
+        nome: "Aves",
+        figura: "🪶",
+        itens: [
+          ["pato", "🦆", "Pato"],
+          ["coruja", "🦉", "Coruja"],
+          ["aguia", "🦅", "Águia"],
+          ["papagaio", "🦜", "Papagaio"],
+          ["galo", "🐓", "Galo"],
+          ["galinha", "🐔", "Galinha"],
+        ],
+      },
+      {
+        id: "insetos",
+        nome: "Insetos",
+        figura: "🐞",
+        itens: [
+          ["abelha", "🐝", "Abelha"],
+          ["borboleta", "🦋", "Borboleta"],
+          ["joaninha", "🐞", "Joaninha"],
+          ["formiga", "🐜", "Formiga"],
+          ["grilo", "🦗", "Grilo"],
+          ["mosca", "🪰", "Mosca"],
+        ],
+      },
+    ],
+  },
+  {
+    id: "piquenique",
+    nivel: "dificil",
+    grupos: [
+      {
+        id: "comer",
+        nome: "Alimentos",
+        figura: "🧺",
+        itens: [
+          ["banana", "🍌", "Banana"],
+          ["pao", "🍞", "Pão"],
+          ["morango", "🍓", "Morango"],
+          ["sanduiche", "🥪", "Sanduíche"],
+          ["queijo", "🧀", "Queijo"],
+          ["biscoito", "🍪", "Biscoito"],
+        ],
+      },
+      {
+        id: "objetos",
+        nome: "Objetos do passeio",
+        figura: "🎒",
+        itens: [
+          ["mochila", "🎒", "Mochila"],
+          ["lanterna", "🔦", "Lanterna"],
+          ["oculos", "👓", "Óculos"],
+          ["guarda-chuva", "☂️", "Guarda-chuva"],
+          ["bussola", "🧭", "Bússola"],
+          ["mapa", "🗺️", "Mapa"],
+        ],
+      },
+      {
+        id: "animais",
+        nome: "Animais",
+        figura: "🐰",
+        itens: [
+          ["gato", "🐱", "Gato"],
+          ["pato", "🦆", "Pato"],
+          ["coelho", "🐰", "Coelho"],
+          ["raposa", "🦊", "Raposa"],
+          ["coala", "🐨", "Coala"],
+          ["preguica", "🦥", "Preguiça"],
+        ],
+      },
+      {
+        id: "formas",
+        nome: "Formas geométricas",
+        figura: "🔺",
+        itens: [
+          ["triangulo", "🔺", "Triângulo"],
+          ["quadrado", "🟦", "Quadrado"],
+          ["circulo", "🔵", "Círculo"],
+          ["losango", "🔶", "Losango"],
+          ["estrela", "⭐", "Estrela"],
+          ["retangulo", "▭", "Retângulo"],
+        ],
+      },
+    ],
+  },
+];

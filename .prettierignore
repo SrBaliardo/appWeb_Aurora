@@ -1,0 +1,9 @@
+node_modules/
+dist/
+backups/
+materiais-originais/
+public/
+.tmp/
+.npm-cache/
+AGENTS.md
+package-lock.json
